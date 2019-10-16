@@ -3,6 +3,7 @@
   "lockfileVersion": 1,
   "scripts": {
 	"start": "node index.js",
+	}
   "dependencies": {
     "async-limiter": {
       "version": "1.0.1",
